@@ -1,1 +1,2 @@
-Hello YUVA
+#JAVASCRIPT & CSS & HTML project in process
+#Adaptations
